@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?oracleBPM version="11.1.1.7.0.0.8" fileRevision="20120217"?>
+<processDocumentation xmlns="http://xmlns.oracle.com/bpm/taskMetadataService/processDocumentation">
+    <component name="Process">
+        <topicDocumentations>
+            <topicDocumentation name="Process">
+                <descriptions>
+                    <description locale="en">Process</description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT9278139689526">
+                <labels>
+                    <label locale="en">UserTask</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT9278140532593">
+                <labels>
+                    <label locale="en">UserTask1</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT9278196143433">
+                <labels>
+                    <label locale="en">UserTask2</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT9278196610116">
+                <labels>
+                    <label locale="en">UserTask3</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT9278259366327">
+                <labels>
+                    <label locale="en">UserTask4</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT9278259923072">
+                <labels>
+                    <label locale="en">UserTask5</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT928644582175">
+                <labels>
+                    <label locale="en">UserTask6</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT9286447555874">
+                <labels>
+                    <label locale="en">UserTask7</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="ACT9286448261069">
+                <labels>
+                    <label locale="en">UserTask8</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="EVT9278126226270">
+                <labels>
+                    <label locale="en">Start</label>
+                </labels>
+            </topicDocumentation>
+            <topicDocumentation name="EVT9278126226324">
+                <labels>
+                    <label locale="en">End</label>
+                </labels>
+            </topicDocumentation>
+            <topicDocumentation name="GTW9278131241857">
+                <labels>
+                    <label locale="en">ParallelGateway</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW9278131479259">
+                <labels>
+                    <label locale="en">ParallelGatewayMerge</label>
+                </labels>
+            </topicDocumentation>
+            <topicDocumentation name="GTW9278172426619">
+                <labels>
+                    <label locale="en">ExclusiveGateway</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW9278174835945">
+                <labels>
+                    <label locale="en">InclusiveGateway</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW9278175059446">
+                <labels>
+                    <label locale="en">InclusiveGateway</label>
+                </labels>
+            </topicDocumentation>
+            <topicDocumentation name="GTW9286264138983">
+                <labels>
+                    <label locale="en">InclusiveGatewayForComplex</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW9286263951696">
+                <labels>
+                    <label locale="en">ComplexGateway</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="GTW9291074081256">
+                <labels>
+                    <label locale="en">ExclusiveGateway1</label>
+                </labels>
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf34"/>
+            <topicDocumentation name="sf36">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf38"/>
+            <topicDocumentation name="sf40"/>
+            <topicDocumentation name="sf49">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf51">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf53">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf57"/>
+            <topicDocumentation name="sf59"/>
+            <topicDocumentation name="sf61">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf63"/>
+            <topicDocumentation name="sf65"/>
+            <topicDocumentation name="sf50">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf52">
+                <descriptions>
+                    <description locale="en"></description>
+                </descriptions>
+            </topicDocumentation>
+            <topicDocumentation name="sf54"/>
+            <topicDocumentation name="sf74"/>
+            <topicDocumentation name="sf76"/>
+            <topicDocumentation name="sf78"/>
+            <topicDocumentation name="sf80"/>
+            <topicDocumentation name="sf90"/>
+            <topicDocumentation name="sf92"/>
+            <topicDocumentation name="sf96"/>
+            <topicDocumentation name="sf99"/>
+        </topicDocumentations>
+    </component>
+</processDocumentation>
